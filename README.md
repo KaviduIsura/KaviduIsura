@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **kaviduisura4567@gmail.com.com**
+- 📫 How to reach me **s.m.kavidu.isura@gmail.com**
   
 - ⚡ Fun fact **Coding......**
 
