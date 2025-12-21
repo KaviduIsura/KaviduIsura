@@ -9,7 +9,7 @@
   
 - 🌱 Learning **Machine Learning**, **AI Systems**, and CS.  
 - 🎓 Pursuing **BSc (Hons) in Computer Science with AI**.  
-- 👨‍💻 Projects: **www.kaviduisura.com**   
+- 👨‍💻 Projects: **www.kaviduisura.me**   
 - 💬 Ask me about **ML, AI, Python, Data Science**.  
 - 📫 Email: **s.m.kavidu.isura@gmail.com**  
 - ⚡ Fun fact: **I love building real-world solutions**.
